@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Content Standards Covered by Project</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38107</md:content-id>
+  <md:title>Content Standards Covered by Project</md:title>
+  <md:abstract/>
+  <md:uuid>107c0b84-9d6b-4040-a15a-2b0d6d2e2d1d</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1171039063216" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>a. <emphasis effect="italics">Students know </emphasis>enzymes are proteins that catalyze biochemical reactions without altering the reaction equilibrium and the activities of enzymes depend on the temperature, ionic conditions, and the pH of the surroundings.h. <emphasis effect="italics">Students know </emphasis>most macromolecules (polysaccharides, nucleic acids, proteins, lipids) in cells and organisms are synthesized from a small collection of simple precursors.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171034066818" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>a. <emphasis effect="italics">Students know</emphasis> the general pathway by which ribosomes synthesize proteins, using tRNAs to translate genetic information in mRNA.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id1171019036595" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>a. <emphasis effect="italics">Students know </emphasis>the general structures and functions of DNA, RNA, and protein.b. <emphasis effect="italics">Students know </emphasis>how to apply base-pairing rules to explain precise copying of DNA during semiconservative replication and transcription of information from DNA into mRNA.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Content Rubric</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38106</md:content-id>
+  <md:title>Content Rubric</md:title>
+  <md:abstract/>
+  <md:uuid>2181407e-0d07-41f3-b9d4-e12cf3fa1cc2</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1164939443942" summary="">
+      <tgroup cols="7">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <tbody>
+          <row>
+            <entry>
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </entry>
+            <entry namest="c2" nameend="c5">BiologyBiochemical Rubric</entry>
+            <entry namest="c6" nameend="c7"> STUDENT: _____________________________ EVALUATOR: ______________ DATE: _______</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">CRITERIA</entry>
+            <entry>WEIGHT</entry>
+            <entry>UNSATISFACTORY(Below Performance Standards)</entry>
+            <entry namest="c5" nameend="c6">PROFICIENT(Minimal Criteria)</entry>
+            <entry>ADVANCED(Demonstrates Exceptional Performance)</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Organic Compoundsmost macromolecules (polysaccharides, nucleic acids, proteins, lipids) in cells and organisms are synthesized from a small collection of simple precursors. </entry>
+            <entry>
+              <emphasis effect="bold">10%</emphasis>
+            </entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Does not use words, diagrams, or examples to describe the following properties of organic compounds:<list id="id1164945129329" list-type="bulleted"><item>The synthesis of carbohydrates, proteins, &amp; lipids</item><item>The reduction of macromolecules</item><item>The chemical structure of amino acids, monosaccharides, &amp; a fatty acid</item><item>The importance of water in chemical reactions</item></list><list id="id1164934928021" list-type="bulleted"><item>Does not describes 3 examples of proteins (structure &amp; function)</item></list></entry>
+                  <entry>Describes with words, diagrams, and examples the following properties of a n organic compound<list id="id3885218" list-type="bulleted"><item>The synthesis of carbohydrates, proteins, &amp; lipids</item><item>The decomposition reactions of macromolecules</item><item>The chemical structure of amino acids, monosaccharide, &amp; fatty acids</item><item>The importance of water in chemical reactions</item></list><list id="id5641376" list-type="bulleted"><item>Describes 3 examples of proteins (structure &amp; function)</item></list></entry>
+                  <entry><emphasis effect="italics">In addition to meeting the PROFICIENT criteria</emphasis> …<list id="id1164939862993" list-type="bulleted"><item>Compare &amp; contrast dehydration synthesis &amp; hydrolysis</item><item>Describes 6 examples of proteins &amp; relates them to their importance in the human body</item><item>Describes the chemical difference between unsaturated &amp; saturated fats</item><item>Compare &amp; contrast the structure (chemical composition) &amp; function of proteins, lipids, carbohydrates, &amp; nucleic acids</item><item>Explains the relationship between this standard &amp; driving question</item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -6</entry>
+                  <entry>7 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 8</entry>
+                  <entry>9 - - - - - - - - - - - - - - - - - - - - - - - - - - - 10</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Protein Synthesis<emphasis effect="italics">Students know </emphasis>how to apply base-pairing rules to explain precise copying of DNA during semi conservative replication and transcription of information from DNA into mRNA.Students can explain the role of tRNA in protein synthesis</entry>
+            <entry>
+              <emphasis effect="bold">20%</emphasis>
+            </entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Does not use words, diagrams, or examples to describe the following properties of organic compounds:<list id="id1164936106545" list-type="bulleted"><item>base-paring in regards to D.N.A. replication</item><item>base-paring in regards to transcription</item><item>Reason for semiconservative replication </item><item>The role of mRNA</item></list></entry>
+                  <entry>Describes with words, diagrams, &amp; examples the following:<list id="id1164939463774" list-type="bulleted"><item>base-paring in regards to D.N.A. replication</item><item>base-paring in regards to transcription</item><item>Reason for semiconservative replication </item><item>The role of mRNA</item><item>The role of tRNA</item></list></entry>
+                  <entry><emphasis effect="italics">In addition to meeting the PROFICIENT criteria</emphasis> …<list id="id1164935745298" list-type="bulleted"><item>Explains the value of understanding the relationship between nucleic acids and proteins</item><item>Describes a new method of learning protein synthesis</item><item>Describes the importance of semiconservative replication</item><item>Explains the relationship between this standard &amp; driving question</item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -6</entry>
+                  <entry>7 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 8</entry>
+                  <entry>9 - - - - - - - - - - - - - - - - - - - - - - - - - - - 10</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Nucleic Acid Composition<emphasis effect="italics">Students know </emphasis>the general structures and functions of DNA, RNA, and proteins. </entry>
+            <entry>
+              <emphasis effect="bold">10%</emphasis>
+            </entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Does not use words, diagrams, or examples to describe the following properties of organic compounds:<list id="id1164931838613" list-type="bulleted"><item>The structure &amp; function of D.N.A.</item><item>The structure &amp; function of R.N.A.</item><item>The structure &amp; function(s) of proteins</item><item>The precursors that create both D.N.A &amp; R.N.A</item><item>The structural &amp; functional differences between R.N.A &amp; D.N.A</item></list></entry>
+                  <entry>Describes with words, diagrams, &amp; examples the following:<list id="id1164936392509" list-type="bulleted"><item>The structure &amp; function of D.N.A.</item><item>The structure &amp; function of R.N.A.</item><item>The structure &amp; function(s) of proteins</item><item>The precursors that create both D.N.A &amp; R.N.A</item><item>The structural &amp; functional differences between R.N.A &amp; D.N.A</item></list></entry>
+                  <entry>In addition to meeting the PROFICIENT criteria<list id="id1164942524871" list-type="bulleted"><item>Evaluates the importance of understanding nucleic acids &amp; proteins in regards to biochemical warfare</item><item>Combines previously learned information to explain the general structure of nucleic acids</item><item>Predicts or infers possibly new insights into learned information</item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -10</entry>
+                  <entry>11 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 13</entry>
+                  <entry>14 - - - - - - - - - - - - - - - - - - - - - - - - - - - 15</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">PresentationStructure</entry>
+            <entry>10%</entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <list id="id1164945083832" list-type="bulleted">
+                      <item>No introduction </item>
+                      <item>Presentation is unorganized</item>
+                      <item>No conclusion/summary of results</item>
+                      <item>Driving Question not addressed</item>
+                      <item>No multimedia used for presentation</item>
+                      <item>No model was used during presentation</item>
+                    </list>
+                  </entry>
+                  <entry>
+                    <list id="id1164932813772" list-type="bulleted">
+                      <item>Introduction that describes the problem and objectives</item>
+                      <item>Provides a conclusion/summary of results</item>
+                      <item>Presentation has clear goals &amp; objectives</item>
+                      <item>Driving question is addressed</item>
+                      <item>Model used during presentation</item>
+                      <item>Multimedia format was used for 6 minutes of the presentation</item>
+                    </list>
+                  </entry>
+                  <entry>In addition to meeting the PROFICIENT criteria<list id="id1164947427957" list-type="bulleted"><item>Student used more than one form of multimedia for presentation</item><item>Presenter provided an electronic &amp; physical model for explaining solution to driving question</item><item>Most diagrams are electronic</item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -6</entry>
+                  <entry>7 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 8</entry>
+                  <entry>9 - - - - - - - - - - - - - - - - - - - - - - - - - - - 10</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Enzymes<emphasis effect="italics">Students know </emphasis>enzymes are proteins that catalyze biochemical reactions without altering the reaction equilibrium and the activities of enzymes depend on the temperature, ionic conditions, and the pH of the surroundings. </entry>
+            <entry>
+              <emphasis effect="bold">20%</emphasis>
+            </entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Does not use words, diagrams, or examples to describe the following properties of organic compounds:<list id="id1164931424617" list-type="bulleted"><item>Structure &amp; Function of enzymes</item><item>Reaction equilibrium</item><item>Activities of enzymes are dependent on the temperature, ionic conditions, &amp; pH of the surroundings</item></list></entry>
+                  <entry>Describes with words, diagrams, &amp; examples the following:<list id="id1164931504691" list-type="bulleted"><item>Structure &amp; Function of enzymes</item><item>Reaction equilibrium</item><item>Activities of enzymes are dependent on the temperature, ionic conditions, &amp; pH of the surroundings</item><item>Active site, substrate, &amp; enzyme-reaction synthesis</item></list></entry>
+                  <entry><emphasis effect="italics">In addition to meeting the PROFICIENT criteria</emphasis> …<list id="id1164936533584" list-type="bulleted"><item>Explains the effects of chemical weapons on enzyme structure &amp; function</item><item>Predicts the physiological outcome(s) of chemical weapons on human beings. </item><item>Formulates a hypothesis on the effects of biochemical weapons on the enzyme-substrate complex. </item><item/></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -6</entry>
+                  <entry>7 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 8</entry>
+                  <entry>9 - - - - - - - - - - - - - - - - - - - - - - - - - - - 10</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Model AssessmentStudents develop a model to explain protein development or function to aid in the teaching of the impact/effects of biochemical warfare</entry>
+            <entry>
+              <emphasis effect="bold">30%</emphasis>
+            </entry>
+            <entrytbl namest="c4" nameend="c7" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <list id="id2129199" list-type="bulleted">
+                      <item>The model is incorrectly used to explain protein synthesis or an enzyme reaction</item>
+                      <item>The presenter does not describe the limitations of the model</item>
+                    </list>
+                  </entry>
+                  <entry>
+                    <list id="id1164932827542" list-type="bulleted">
+                      <item>The model illustrates the steps involved in protein synthesis or an enzyme reaction</item>
+                      <item>The presenter explained the limitations of the model</item>
+                    </list>
+                  </entry>
+                  <entry>
+                    <list id="id1164939966349" list-type="bulleted">
+                      <item>The presenter predicted how protein synthesis or enzymatic reactions may be inhibited by a biological or chemical agent</item>
+                      <item>The presenter used the model as a basis for their explanation</item>
+                      <item>The presenter developed an authentic solution to the problem </item>
+                      <item>The presenter used the model as a basis for explaining the solution.</item>
+                    </list>
+                  </entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - - - - - - - - - - - - -6</entry>
+                  <entry>7 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 8</entry>
+                  <entry>9 - - - - - - - - - - - - - - - - - - - - - - - - - - - 10</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1164931399395">ADDITIONAL COMMENTS:</para>
+    <para id="id1164932687790">
+      <emphasis effect="bold"></emphasis>
+      <emphasis effect="bold"> New Technology High School 2002</emphasis>
+    </para>
+  </content>
+</document>

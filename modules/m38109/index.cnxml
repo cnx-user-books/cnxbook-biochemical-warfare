@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oral Communication Rubric</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38109</md:content-id>
+  <md:title>Oral Communication Rubric</md:title>
+  <md:abstract/>
+  <md:uuid>7068a4bf-4850-433c-8a0b-f7bffc26a1f4</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1172713098520">New Tech High School</para>
+    <para id="id1172709244972">Oral Presentation Rubric</para>
+    <para id="id1172712666462">Name:</para>
+    <table id="id1172709473973" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>Oral Presentation</entry>
+            <entry>100 pts</entry>
+            <entry>The presenter is dressed in unprofessional or inappropriate attireThe presenter <emphasis effect="bold">DOES NOT</emphasis> uses props, visual aids, graphs and electronic media <emphasis effect="bold">OR</emphasis> props/ aids which <emphasis effect="bold">DETRACT</emphasis> from the appeal and accuracy of the presentationThe presenter <emphasis effect="bold">DOES NOT</emphasis> look at the audience of reads directly from the PowerPoint.If the presenter is using note cards, they read directly from the note cards and do not look up at the audience.The presenter:<list id="id1172733645784" list-type="bulleted"><item>Voice is inaudible or unclear</item><item>Maintains little to no eye contact with the audience</item><item>Uses physical gestures which distract from the presentation</item></list>Presentation DOES NOT take the appropriate time (either too short or too long)If a Power Point is used:<list id="id1172723146635" list-type="bulleted"><item>The slides have text which is presented in paragraphs</item><item>The slides detract from the presentation</item><item>Animations or transitions were a distraction.</item><item>Design was <emphasis effect="bold">NOT</emphasis> consistent throughout</item></list>\0------------------50----------------69</entry>
+            <entry>The presenter is dressed in Interview DressThe presenter uses props, visual aids, graphs and electronic mediaThe presenter speaks directly at the audience and <emphasis effect="bold">DOES NOT</emphasis> read from the PowerPoint.If the presenter is using note cards, they look down at the material sporadically.The presenter:<list id="id1172716370718" list-type="bulleted"><item>Uses a good speaking voice and pronounces words clearly, correctly, and without verbal fillers</item><item>Maintains partial eye contact with the audience</item><item>Uses physical gestures which do not distract from the presentation</item></list>Presentation takes the appropriate timeIf a Power Point is used:<list id="id1172727348669" list-type="bulleted"><item>The slides have bulled items, not paragraphs</item><item>The slides added, did not detract, from the presentation</item><item>Layout, fonts, and graphics used were easy to see</item><item>Design was consistent throughout</item></list>70---------------80----------------89</entry>
+            <entry><emphasis effect="bold">In addition to meeting the PROFICIENT criteria </emphasis>The presenters uses of props, visual aids, graphs and electronic media to ENHANCE the appeal and accuracy of the presentation.The presenter speaks directly at the audience and has the speech or dialogue memorizedThe presenter:<list id="id1172720965945" list-type="bulleted"><item>Uses a strong and clear speaking voice</item><item>Maintains eye contact with the audience</item><item>Uses energetic gestures and facial expressions which do not distract from the presentation</item></list>If a Power Point is used:<list id="id1172743958196" list-type="bulleted"><item>Presenter creatively integrated a variety of objects, charts, and graphs to amplify the message</item></list>90--------------95-------------100</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

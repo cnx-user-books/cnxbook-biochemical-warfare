@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Team Contract Template</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38111</md:content-id>
+  <md:title>Team Contract Template</md:title>
+  <md:abstract/>
+  <md:uuid>b01b4891-5a06-4d61-9c36-61ac904bdd0b</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1172607160542" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </entry>
+            <entry>BiologyTeam Contract</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1172609252989"><emphasis effect="bold">Project Name:</emphasis> ___________________________  </para>
+    <para id="id1172610324342"><emphasis effect="bold">Project Start Date:</emphasis> _______________________  <emphasis effect="bold">Project End Date:</emphasis> ________________________</para>
+    <para id="id1172626738127">Team Members/Personal Information</para>
+    <table id="id1172627523798" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Name</entry>
+            <entry>Phone</entry>
+            <entry>Email</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1172617943495">Team Agreements and Ground Rules</para>
+    <table id="id1172631912168" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Issue</entry>
+            <entry>
+              <emphasis effect="bold">Agreement(s)</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>Collective Purpose</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Specific Performance Goals</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Commitment to work processesAgree on specific tools</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Mutual Accountability</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Optional)</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Other</entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1172606366198">How will you develop a trusting team? </para>
+    <para id="id1172601380017">(tools e.g. Personal History Exercise, Team Effectiveness Exercise)</para>
+    <para id="id1172606480208">How will you develop the ability and willingness to engage in healthy conflict?</para>
+    <para id="id1172604206306">(tools e.g. Real-Time Permission)</para>
+    <para id="id1172609133507">How will you ensure commitment?</para>
+    <para id="id1172606754941">(tools e.g. Cascading Messaging)</para>
+    <para id="id1172631215852">How will you establish clarity &amp; buy-in?</para>
+    <para id="id1172617968532">Describe specific deadlines that you will meet for this particular project?</para>
+    <para id="id1820276"/>
+    <para id="id1172602985188">How will you ensure that your attention is focused on results?</para>
+    <para id="id1172606490437">How will you ensure that all team members are involved in the decision-making process?</para>
+    <para id="id1172607166419">Develop a timeline that will help you map out the project.</para>
+    <para id="id1172612419172">Proposed Timeline</para>
+    <table id="id1172611552383" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>
+              <emphasis effect="italics">When</emphasis>
+              <emphasis effect="bold"> is it to be Completed</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="italics">Who</emphasis>
+              <emphasis effect="bold"> is Primarily Responsible</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>Benchmark 1:</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Benchmark 2:</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Benchmark 3:</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Benchmark 4:</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Final</emphasis>
+              <emphasis effect="bold"> Product</emphasis>
+            </entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1172617502670">Signatures</para>
+    <para id="id1172608856671">______________________________________  ______________________________________</para>
+    <para id="id1172621285956">______________________________________  ______________________________________</para>
+  </content>
+</document>

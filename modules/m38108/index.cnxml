@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Lab Rubric</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38108</md:content-id>
+  <md:title>Lab Rubric</md:title>
+  <md:abstract/>
+  <md:uuid>47cf7f44-a82e-4f42-99e0-823eb73cfde9</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1164948033091" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry>
+              <media id="id1164935723832" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics1-f9a9.jpg"/>
+              </media>
+            </entry>
+            <entry namest="c2" nameend="c4">Patrick F. Taylor Science &amp; Technology AcademyLab Report Rubric Project ______________</entry>
+            <entry namest="c5" nameend="c6"> STUDENT: _____________________________Section : __________ EVALUATOR: _____________ DATE: _______</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">CRITERIA</entry>
+            <entry>UNSATISFACTORY(Below Performance Standards)</entry>
+            <entry namest="c4" nameend="c5">PROFICIENT(Minimal Criteria)</entry>
+            <entry>ADVANCED(Demonstrates Exceptional Performance)</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Content Literacy(60%)</entry>
+            <entrytbl namest="c3" nameend="c6" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Students show a lack of respect for the equipment by using it inappropriately.Students do not state the problem as a logical cause and effect. Students write a hypothesis without an “IF, THEN” statement.Material list is incomplete.Procedure lacks important details.Data table is incomplete or inaccurate. Graph is inaccurate or lacks essential features. Qualitative descriptions are vague or inaccurate.</entry>
+                  <entry>Students respect the equipment and only use it for experimentation purposesStudents state the problem with independent and dependent variables in a cause and effect relationship.Students write the hypothesis as a logical “IF, THEN” statement.Materials list is complete. Procedure is described in numbered steps.Quantitative data is recorded in table with appropriate headings and units. Graph is accurate and labeled. Qualitative data is descriptive. </entry>
+                  <entry>In addition to meeting the PROFICIENT criteria …Experiment could easily be replicated based on description of process and operational definitions.Graph of quantitative data is accurately drawn AND contains title, labels, units. A logical connection is maintained among the problem, hypothesis and results discussion. </entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - 20---------------------39</entry>
+                  <entry>40---------------------46</entry>
+                  <entry>47- - - - - - - - - - - - - - 50</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Critical Thinking(25%)</entry>
+            <entrytbl namest="c3" nameend="c6" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Conclusion lacks some of the items in the proficient category.</entry>
+                  <entry>Conclusion: Student <list id="id1164941451117" list-type="bulleted"><item>Describes the purpose of the experiment,</item><item>Describes the major findings with operational definitions, </item><item>Explains the findings in terms of the validity of the hypothesis, </item><item>Explains the results in terms of vocabulary and content of the current unit.</item></list></entry>
+                  <entry>In addition to meeting the PROFICIENT criteria , CONCLUSION<list id="id1164931464858" list-type="bulleted"><item>Compares work to similar research, either among classmates or outside sources. </item><item>Offers helpful suggestions for improvement and further study. </item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - 15 - - - - - - - - - - - - 29</entry>
+                  <entry>28 - - - - - - - - - - - - 32</entry>
+                  <entry>33 - - - - - - - - - - - - 35</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Written Expression(15%)</entry>
+            <entrytbl namest="c3" nameend="c6" cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <list id="id1164933780170" list-type="bulleted">
+                      <item>Conventional rules of grammar, punctuation, and spelling are NOT followed. </item>
+                      <item>Student writing contains pronouns and vague statement. </item>
+                    </list>
+                  </entry>
+                  <entry>
+                    <list id="id1164946585145" list-type="bulleted">
+                      <item>Conventional rules of grammar, punctuation and spelling are followed. </item>
+                      <item>Major sections of the lab report are identified by heading. </item>
+                    </list>
+                  </entry>
+                  <entry>In addition to meeting the PROFICIENT criteria …<list id="id1164941001289" list-type="bulleted"><item>Writing conveys an exceptional mastery of scientific language and vocabulary. </item></list></entry>
+                </row>
+                <row>
+                  <entry>0 - - - - - - - - - - - - 5 - - - - - - - - - - - - 11</entry>
+                  <entry>12- - - - - - - - - - - - - - - - - - - - - - - 14</entry>
+                  <entry>15</entry>
+                </row>
+              </tbody>
+            </entrytbl>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id4009349">
+      <emphasis effect="bold">TOTAL:</emphasis>
+    </para>
+    <para id="id1164948055278">
+      <emphasis effect="bold">COMMENTS:</emphasis>
+      <emphasis effect="bold"></emphasis>
+      <emphasis effect="bold"> New Technology Foundation 2001-2005</emphasis>
+    </para>
+  </content>
+</document>
